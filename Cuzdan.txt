@@ -1,0 +1,2 @@
+totalEth=4.0
+totalUsdt=20000
